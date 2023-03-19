@@ -1,0 +1,12 @@
+input
+    [type="password"]
+    {color: aliceblue;
+}
+
+a[href*=" Search Youtube"]{
+    color: magenta;
+}
+
+input[type="text"]{
+    color: red;
+}
